@@ -1,0 +1,10 @@
+git show portrait.txt
+git checkout HEAD portrait.txt
+git add portrait.txt
+git commit -m "add goatee back"
+git add . 
+git commit -m "change dates"
+git add . 
+git add . 
+git reset HEAD house.txt
+git commit -m "remove house.txt from stagging area"
